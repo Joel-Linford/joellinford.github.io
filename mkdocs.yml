@@ -1,0 +1,46 @@
+site_name: Joel Linford
+site_url: https://joellinford.com
+site_description: Personal website for Joel Linford
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Work: work.md
+  # - Projects: projects.md
+  - Writing:
+      - Overview: writing.md
+      - Why I Built a Data Lab: writing/data-lab-why.md
+      - Designing the Data Lab Architecture: writing/data-lab-architecture.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  language: en
+  logo: assets/images/logo-mark.svg
+  favicon: assets/images/favicon.svg
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html

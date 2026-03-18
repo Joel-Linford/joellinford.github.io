@@ -48,4 +48,4 @@
 
 ## In the meantime
 
-If you’d like to connect before the full site is live, the best places are LinkedIn, GitHub, and email.
+If you’d like to connect before the full site is live, the best places are LinkedIn and GitHub.

@@ -1,1 +1,6 @@
-.Old/
+.env
+*.env
+.venv/
+*.venv/
+__pycache__/
+site/

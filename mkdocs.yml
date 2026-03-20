@@ -15,6 +15,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
   language: en
   logo: assets/images/logo-mark.svg
   favicon: assets/images/favicon.svg
@@ -40,6 +41,9 @@ theme:
 
 extra_css:
   - assets/stylesheets/extra.css
+
+extra:
+  last_build: !ENV [LAST_BUILD, ""]
 
 markdown_extensions:
   - attr_list

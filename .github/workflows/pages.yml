@@ -33,6 +33,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install mkdocs mkdocs-material
 
+      - name: Set build timestamp
+        run: echo "LAST_BUILD=$(date -u '+%Y-%m-%d %H:%M UTC')" >> "$GITHUB_ENV"
+
       - name: Build site
         run: mkdocs build
 

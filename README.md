@@ -6,15 +6,13 @@ A simple work-in-progress personal website that can be pushed live quickly.
 
 ```bash
 pip install -r requirements.txt
-python scripts/generate_writing_index.py
-mkdocs serve
+python scripts/run_mkdocs.py serve
 ```
 
 ## Build
 
 ```bash
-python scripts/generate_writing_index.py
-mkdocs build
+python scripts/run_mkdocs.py build
 ```
 
 ## Notes

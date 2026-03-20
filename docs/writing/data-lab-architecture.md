@@ -1,6 +1,6 @@
 ---
 title: Designing the Data Lab Architecture
-date: 2026-03-18
+up_next: true
 ---
 
 # Designing the Data Lab Architecture

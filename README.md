@@ -5,7 +5,7 @@ A simple work-in-progress personal website that can be pushed live quickly.
 ## Run locally
 
 ```bash
-pip install mkdocs-material
+pip install -r requirements.txt
 python scripts/generate_writing_index.py
 mkdocs serve
 ```

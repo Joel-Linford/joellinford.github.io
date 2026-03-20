@@ -181,6 +181,18 @@ body,
   background: transparent;
 }
 
+.md-footer .md-copyright,
+.md-footer .md-copyright__highlight,
+.md-footer .site-last-build {
+  color: var(--site-text-muted);
+}
+
+[data-md-color-scheme="default"] .md-footer .md-copyright,
+[data-md-color-scheme="default"] .md-footer .md-copyright__highlight,
+[data-md-color-scheme="default"] .md-footer .site-last-build {
+  color: #4b5563;
+}
+
 @media (max-width: 900px) {
   .hero,
   .card-grid {

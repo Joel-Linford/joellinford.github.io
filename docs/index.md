@@ -2,13 +2,13 @@
 
 <div class="hero">
   <div class="hero-copy">
-    <p class="eyebrow">Work in progress</p>
+    <p class="eyebrow">Principal Data Engineer | Data Platforms & Analytics Systems</p>
     <h1>A personal site for my work, writing, and evolving perspective on data, AI, and engineering leadership.</h1>
     <p class="lead">
-      I build data, AI, and graph-enabled platforms that turn complexity into operational advantage.
-      This site is currently being developed. For now, this page serves as a simple front door while I
-      build out the fuller site.
-    </p>
+    I build data, AI, and graph-enabled platforms that turn complexity into operational advantage.
+    Currently leading development of large-scale data platforms (100M+ records) delivering $90M+ in impact.
+    This site is evolving as I build and document. For now, this serves as a front door while the rest is developed.
+  </p>
     <div class="hero-actions">
       <a class="button button-primary" href="work/">View work</a>
       <a class="button button-secondary" href="contact/">Get in touch</a>

@@ -1,0 +1,13 @@
+<div class="md-copyright">
+    <div class="md-copyright__highlight">
+      {% if config.copyright %}
+        {{ config.copyright }}
+      {% endif %}
+    </div>
+  
+    {% if config.extra and config.extra.last_build %}
+      <div>
+        Last built: {{ config.extra.last_build }}
+      </div>
+    {% endif %}
+  </div>

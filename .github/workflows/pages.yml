@@ -36,6 +36,9 @@ jobs:
       - name: Set build timestamp
         run: echo "LAST_BUILD=$(date -u '+%Y-%m-%d %H:%M UTC')" >> "$GITHUB_ENV"
 
+      - name: Generate writing index
+        run: python scripts/generate_writing_index.py
+
       - name: Build site
         run: mkdocs build
 

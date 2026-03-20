@@ -6,12 +6,14 @@ A simple work-in-progress personal website that can be pushed live quickly.
 
 ```bash
 pip install mkdocs-material
+python scripts/generate_writing_index.py
 mkdocs serve
 ```
 
 ## Build
 
 ```bash
+python scripts/generate_writing_index.py
 mkdocs build
 ```
 

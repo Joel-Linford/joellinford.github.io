@@ -1,3 +1,8 @@
+---
+title: Why I Built a Data Lab
+date: 2026-03-15
+---
+
 > This is part of an ongoing series: **Building a Personal Data Lab**.
 
 # Why I Built a Data Lab

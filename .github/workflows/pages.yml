@@ -34,7 +34,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Set build timestamp
-        run: echo "LAST_BUILD=$(date -u '+%Y-%m-%d %H:%M UTC')" >> "$GITHUB_ENV"
+        run: echo "LAST_BUILD=$(date -u '+%Y-%m-%d')" >> "$GITHUB_ENV"
 
       - name: Generate writing index
         run: python scripts/generate_writing_index.py

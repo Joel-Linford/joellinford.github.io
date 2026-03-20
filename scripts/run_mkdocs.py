@@ -13,9 +13,7 @@ WRITING_INDEX_SCRIPT = ROOT / "scripts" / "generate_writing_index.py"
 
 def ensure_last_build() -> None:
     if not os.environ.get("LAST_BUILD"):
-        os.environ["LAST_BUILD"] = datetime.now(timezone.utc).strftime(
-            "%Y-%m-%d %H:%M UTC"
-        )
+        os.environ["LAST_BUILD"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
 def run() -> None:

@@ -3,6 +3,12 @@ title: Designing the Data Lab Architecture
 up_next: true
 ---
 
+<!-- TODOs:
+- Add in the diagram
+- Provide a walk through verbal of the diagram
+- Add some more charecter.
+ -->
+
 # Designing the Data Lab Architecture
 
 > This is part of an ongoing series: **Building a Personal Data Lab**.

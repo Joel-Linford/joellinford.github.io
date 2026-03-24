@@ -4,16 +4,18 @@ Notes on data systems, AI, engineering leadership, and building real platforms.
 
 ## Latest
 
+- [Designing the Data Lab Architecture](writing/data-lab-architecture.md) - 2026-03-23 `New`
 - [Why I Built a Data Lab](writing/data-lab-why.md) - 2026-03-15 `New`
 
 ## Up next
 
-- [Designing the Data Lab Architecture](writing/data-lab-architecture.md) - `Up next`
+- [Implementing the Data Lab](writing/implementing-the-system.md) - `Up next`
 
 ## Archive
 
 ### 2026
 
+- [Designing the Data Lab Architecture](writing/data-lab-architecture.md) - 2026-03-23 `New`
 - [Why I Built a Data Lab](writing/data-lab-why.md) - 2026-03-15 `New`
 
 > `New` indicates posts published in the last 30 days.

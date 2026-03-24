@@ -1,6 +1,2 @@
-.env
-*.env
-.venv/
-*.venv/
-__pycache__/
-site/
+.Old/
+docs/writing/in_work_notes/*

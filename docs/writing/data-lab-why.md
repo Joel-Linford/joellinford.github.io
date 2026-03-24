@@ -40,6 +40,7 @@ That was a pretty clear signal.
 I looked at the obvious option — cloud providers.
 
 They all offer some version of a free tier, but in practice:
+
 - resources are heavily constrained  
 - experimentation is limited  
 - mistakes can be expensive  
@@ -47,6 +48,7 @@ They all offer some version of a free tier, but in practice:
 More importantly, cloud environments abstract away many of the constraints I actually want to understand.
 
 I didn’t need:
+
 - 11 nines of durability  
 - the latest hardware  
 - production-grade reliability  
@@ -110,6 +112,7 @@ The plan is simple:
 4. Start working with real data  
 
 I’m planning to start with datasets like:
+
 - weather  
 - financial markets  
 - flight data  

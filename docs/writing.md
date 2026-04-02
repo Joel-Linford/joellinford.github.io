@@ -10,7 +10,7 @@ Notes on data systems, AI, engineering leadership, and building real platforms.
 
 ## Up next
 
-- No upcoming posts tagged yet.
+- [hardware-failure-validation](writing/hardware-failure-rebuild-validation.md) - `Up next`
 
 ## Archive
 

@@ -323,4 +323,4 @@ That’s where the system starts to look less like infrastructure—and more lik
 - Part 2: [Designing the Data Lab Architecture](data-lab-architecture.md)  
 - Part 3: Implementing the Data Lab *(this post)*  
 
-→ Next: Hardware Failure Rebuild *(coming next)*
+→ Next: [Hardware Failure Rebuild Validation](hardware-failure-rebuild-validation.md) *(coming next)*

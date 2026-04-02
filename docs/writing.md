@@ -4,17 +4,19 @@ Notes on data systems, AI, engineering leadership, and building real platforms.
 
 ## Latest
 
+- [Implementing the Data Lab](writing/implementing-the-system.md) - 2026-04-02 `New`
 - [Designing the Data Lab Architecture](writing/data-lab-architecture.md) - 2026-03-23 `New`
 - [Why I Built a Data Lab](writing/data-lab-why.md) - 2026-03-15 `New`
 
 ## Up next
 
-- [Implementing the Data Lab](writing/implementing-the-system.md) - `Up next`
+- [hardware-failure-validation](writing/hardware-failure-rebuild-validation.md) - `Up next`
 
 ## Archive
 
 ### 2026
 
+- [Implementing the Data Lab](writing/implementing-the-system.md) - 2026-04-02 `New`
 - [Designing the Data Lab Architecture](writing/data-lab-architecture.md) - 2026-03-23 `New`
 - [Why I Built a Data Lab](writing/data-lab-why.md) - 2026-03-15 `New`
 

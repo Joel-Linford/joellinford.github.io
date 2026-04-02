@@ -11,6 +11,7 @@ nav:
       - Overview: writing.md
       - Why I Built a Data Lab: writing/data-lab-why.md
       - Designing the Data Lab Architecture: writing/data-lab-architecture.md
+      - Implementing the System: writing/implementing-the-system.md
   - Contact: contact.md
 
 theme:

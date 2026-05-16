@@ -599,7 +599,7 @@ And that changes the nature of every future layer built on top of it.
 
 - Part 1: [Why I Built a Data Lab](data-lab-why.md)  
 - Part 2: [Designing the Data Lab Architecture](data-lab-architecture.md)  
-- Part 3: [Implementing the Data Lab](implementing-the-data-lab.md)
+- Part 3: [Implementing the Data Lab](implementing-the-system.md)
 - Part 4: Validating the Platform Under Change *(this post)*
 
 → Next: [Data Lab Test Dive](data-lab-test-drive.md) *(coming next)*

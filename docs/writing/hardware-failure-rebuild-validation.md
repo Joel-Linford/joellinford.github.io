@@ -1,6 +1,6 @@
 ---
 title: hardware-failure-validation
-up_next: true
+date: 2026-05-16
 ---
 
 # Validating the Platform Under Change

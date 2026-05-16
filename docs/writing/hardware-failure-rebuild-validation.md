@@ -592,3 +592,14 @@ At this point, the platform is no longer merely assembled.
 It is operationally verifiable.
 
 And that changes the nature of every future layer built on top of it.
+
+---
+
+## Series: Building a Personal Data Lab
+
+- Part 1: [Why I Built a Data Lab](data-lab-why.md)  
+- Part 2: [Designing the Data Lab Architecture](data-lab-architecture.md)  
+- Part 3: [Implementing the Data Lab](implementing-the-data-lab.md)
+- Part 4: Hardware Failure Rebuild Validation *(this post)*
+
+→ Next: [Data Lab Test Dive](data-lab-test-drive.md) *(coming next)*
